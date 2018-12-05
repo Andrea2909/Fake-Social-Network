@@ -1,0 +1,23 @@
+.profile {
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.profile .profile-image {
+  width: 150px;
+  height: 150px;
+  margin: auto;
+}
+
+.profile .name {
+  margin-top: 10px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.profile .username {
+  color: grey;
+  margin-bottom: 20px;
+}

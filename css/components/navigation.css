@@ -1,0 +1,12 @@
+.navigation {
+  padding-right: 10px;
+}
+
+.navigation .navigation-item {
+  padding: 5px 10px;
+  font-size: 13px;
+}
+
+.navigation .navigation-item:hover {
+  background-color: white;
+}

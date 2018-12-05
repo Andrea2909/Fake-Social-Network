@@ -1,0 +1,9 @@
+.fa-check-circle {
+  color: #3b5998;
+  font-size: 15px;
+}
+
+.fa-share, .fa-thumbs-up, .fa-pen {
+  font-size: 12px;
+  margin-right: 5px;
+}

@@ -1,0 +1,41 @@
+button {
+  background: #dcdada;
+  padding: 5px 10px;
+  font-weight: bold;
+  outline: 0;
+  border: 0;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #a9a6a6;
+}
+
+button.calltoaction {
+  background: #07ce07;
+  color: white;
+  margin-top: 10px;
+}
+
+button.calltoaction:hover {
+  background: #058805;
+}
+
+button.primary {
+  background: #3b5998;
+  color: white;
+}
+
+button.primary:hover {
+  background: #27395f
+}
+
+button.secondary {
+  background: white;
+  color: #27395f;
+}
+
+button.secondary:hover {
+  background: #27395f;
+  color: white;
+}
